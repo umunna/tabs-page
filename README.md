@@ -1,2 +1,4 @@
 # tabs-page
-tabs page with scroll animation, responsive on mobile.
+tabs-page with text animation, responsive on mobile.
+
+# page-link
